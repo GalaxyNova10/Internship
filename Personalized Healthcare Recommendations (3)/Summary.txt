@@ -1,0 +1,1 @@
+I analysed the Heart Disease UCI dataset to predict a patient's risk of having heart disease. I built and tested several classification models and found that a tuned XGBoost model was the most effective, achieving an accuracy of 83.33%. This kind of predictive model can help healthcare professionals identify at-risk patients for early and personalized intervention.

@@ -1,0 +1,1 @@
+I analysed the WHO's global health and economic data to predict a country's life expectancy. I built a Random Forest Regressor model that was highly accurate, achieving an R-squared score of 0.97 and a Mean Absolute Error of just 1.05 years. This analysis can help governments and health organizations identify the most impactful factors for improving public health and longevity.

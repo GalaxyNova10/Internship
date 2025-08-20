@@ -1,0 +1,1 @@
+I analysed a dataset of over 1,300 laptops to predict their price based on technical specifications. I built a Random Forest Regressor model that explained 82% of the price variance, achieving an R-squared score of 0.82. This type of model can help consumers understand what drives laptop costs and assist retailers in developing pricing strategies.
