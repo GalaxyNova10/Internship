@@ -1,1 +1,0 @@
-I analysed historical TCS stock data from 2010 to 2025 to forecast its daily closing price. I built a Long Short-Term Memory (LSTM) neural network which achieved a Root Mean Squared Error (RMSE) of ₹115.27. This type of forecast can serve as a valuable tool for investors to supplement their financial analysis and manage risk.

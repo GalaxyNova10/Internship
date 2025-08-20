@@ -1,1 +1,0 @@
-I analysed historical data from 1970 to 2022 to forecast future world population trends. I used the Prophet time-series model and found it projected that the world population will reach 10.26 billion by the year 2049. This kind of forecast is critical for governments and global organizations for long-term resource, economic, and environmental planning.
