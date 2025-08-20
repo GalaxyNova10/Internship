@@ -1,0 +1,1 @@
+I analysed six months of Uber's 2014 trip data to forecast hourly demand. I built and tested four different machine learning models, and found that a weighted Ensemble model was the most accurate, predicting trip counts with an 8.68% error rate. This kind of forecast can help Uber optimize driver allocation and improve customer wait times.
